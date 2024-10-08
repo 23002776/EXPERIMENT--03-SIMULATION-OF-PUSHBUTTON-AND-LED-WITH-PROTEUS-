@@ -1,4 +1,6 @@
 # EXPERIMENT--02-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
+
+
 ## Name: Abinaya
 ## Register no: 212223040003
 ## Date: 13/09/2024
@@ -76,10 +78,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 
-```
-NAME : DHARSHINI S
-REG.NO: 212223110010
- 
+``` 
 #include "main.h"
 #include "stdbool.h"
 bool PUSHBUTT;
