@@ -73,8 +73,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ## STM 32 CUBE PROGRAM :
 
 ```
-NAME : NIKSHITHA G
-REG NO : 212223110031
+NAME : Abinaya a
+REG NO : 212223040003
 
 /* USER CODE BEGIN Header */
 /**
